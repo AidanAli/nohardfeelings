@@ -61,7 +61,7 @@ const Hero = ({
                     NHF Community Server
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://discord.gg/KeURcDtBb6">
-                    NHF ArcheRage Content Discord
+                    NHF ArcheRage Content Disc
                     </Button>
                 </ButtonGroup>
               </div>
