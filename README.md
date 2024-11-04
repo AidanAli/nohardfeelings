@@ -1,1 +1,2 @@
-# Gaming community websitebuilt in react
+#No Hard Feelings
+Game community website built in react
